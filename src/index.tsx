@@ -1,1 +1,0 @@
-export { IntersectionObserver } from "./IntersectionObserver";
